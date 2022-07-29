@@ -36,6 +36,12 @@ September 29 - October 1, 2022. In-person in Alicante, Spain + remote (hybrid ev
 
 [Website](https://reactalicante.es/) - [Twitter](https://twitter.com/reactalicante) - [Facebook](https://www.facebook.com/ReactAlicante) - [Videos](https://www.youtube.com/channel/UCaSdUaITU1Cz6PvC97A7e0w)
 
+### reactjsday 2022 {#reactjsday-verona-2022}
+
+October 21, 2022. In-person in Verona, Italy
+
+[Website](https://2022.reactjsday.it) - [Twitter](https://twitter.com/reactjsday) - [Facebook](https://www.facebook.com/reactjsday/) - [Videos](https://www.youtube.com/c/grusp)
+
 ### RemixConf 2023 {#remixconf-2023}
 May, 2023. Salt Lake City, UT
 
